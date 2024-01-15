@@ -4,3 +4,4 @@ psycopg2==2.8.0
 whitenoise==5.3.0
 gunicorn==19.9.0
 dj-database-url==0.5.0
+django-annoying==0.10.6
